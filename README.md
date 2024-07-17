@@ -7,9 +7,12 @@
 ## Name: Ugwu Emeka Ben-kingsley
 position : Trainee Jnr DevOps Engr
 
-see my picture below:
+see my picture below
 
-![alt text](Benking's_picture.jpg)]
+
+![](Benking's_picture.jpg)]
+
+
 
 ### Background Study
 
