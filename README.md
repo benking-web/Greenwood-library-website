@@ -7,6 +7,10 @@
 ## Name: Ugwu Emeka Ben-kingsley
 position : Trainee Jnr DevOps Engr
 
+see my picture below:
+
+![alt text](Benking's_picture.jpg)]
+
 ### Background Study
 
 I applied git version control concepts and collaboration skills learned so far with darey.io. This has helped to enhance my understanding of branching, merging, conflict resolution, and collaborative development using Git, mirroring real-world scenarios where version control is essential for team-based projects.
