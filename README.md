@@ -91,7 +91,6 @@ Before raising a pull request for Jamie's update-events branch, I ensured to pul
 
 ```
 
-This Markdown document captures the key steps, processes, and outcomes of your project using Git for version control and collaboration on enhancing a community library website. Adjust as needed based on additional details or formatting preferences!
 
 
 
