@@ -97,4 +97,4 @@ This Markdown document captures the key steps, processes, and outcomes of your p
 
 
 
-![description of the image](image/images/Screenshot 2.png)
+![description of the image](images/Screenshot 2.png)
