@@ -111,7 +111,7 @@ see pictures above on mobxterm terminal pictures
 
 Before raising a pull request for Jamie's update-events branch, I ensured to pull the latest changes into `update-events`.
 
-see screen shot pictures above.
+see screen shot pictures above. thanks
 
 
 
