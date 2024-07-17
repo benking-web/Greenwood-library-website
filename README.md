@@ -92,12 +92,4 @@ Before raising a pull request for Jamie's update-events branch, I ensured to pul
 ```
 
 
-
-
-
-
-![description of the image](images/Screenshot2.png)]
-
-
-
-![description
+![](./images/Screenshot_3.png)
