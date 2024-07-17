@@ -1,11 +1,11 @@
 # Greenwood-library-website
 
-Certainly! Here's the documentation of your capstone project in Markdown format:
 
-```markdown
+
 # Capstone Project on Enhancing a Community Library Website
 
 ## Name: Ugwu Emeka Ben-kingsley
+position : Trainee Jnr DevOps Engr
 
 ### Background Study
 
@@ -13,7 +13,7 @@ I applied git version control concepts and collaboration skills learned so far w
 
 ### Markdown (MD)
 
-Markdown is a lightweight markup language with plain-text formatting syntax. It is designed to be easy to read and write, and its syntax is converted into HTML for rendering on web pages. Markdown is widely used for formatting README files, documentation, notes, messages in online forums, and other types of text that benefit from simple formatting. In this project, Markdown (MD) was used.
+Markdown is a lightweight markup language with plain-text formatting syntax. It is designed to be easy to read and write, and its syntax is converted into HTML for rendering on web pages. Markdown is widely used for formatting README files, documentation, notes, messages in online forums, and other types of text that benefit from simple formatting. In this project, Markdown (MD) was used for this project documentation.
 
 ### Objectives
 
@@ -89,7 +89,9 @@ I already had Git, MobaXterm, and Visual Studio Code installed on my local machi
 
 Before raising a pull request for Jamie's update-events branch, I ensured to pull the latest changes into `update-events`.
 
-```
+
 
 
 ![](./images/Screenshot_3.png)
+
+
