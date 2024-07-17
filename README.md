@@ -30,14 +30,32 @@ I already had Git, MobaXterm, and Visual Studio Code installed on my local machi
 3. Cloned the repository to my local machine using the command:
    ```
    git clone https://github.com/benking-web/Greenwood-library-website
-   ```
+   
+
 4. Changed directory into the cloned folder (`greenwood-library-website`).
+see attached screenshot of the cloned repository as well as the the commands on mobxterm terminal, which also shows the file path, git add, git commit and git push and collaboration between Morgan and Jamies.
+
+[(./images/git_clone_file.png)]
+
+[(./images/mobxterm_terminal_1.png)]
+[(./images/mobxterm_terminal_2.png)]
+[(./images/Mobxterm_terminal_3.png)]
+[(./images/Mobxterm_terminal_4.png)]
 5. On the main branch, created four HTML files inside Visual Studio Code:
    - `About_us.html`
    - `Contact_us.html`
-   - `Event.html`
    - `Home.html`
+
+   [(./images/vscode_html_files.png)]
+
 6. Added random contents to each of the files.
+see the screenshot attached below:
+[(./images/contact_us.html_file.png)]
+[(./images/event.html_file.png)]
+[(./images/home.html_file.png)]
+[(./images/about_us.html_file.png)]
+
+
 7. Staged the changes using:
    ```
    git add .
@@ -54,7 +72,7 @@ I already had Git, MobaXterm, and Visual Studio Code installed on my local machi
     ```
     git push origin main
     ```
-
+see pictures above on mobxterm terminal pictures
 ### Collaboration
 
 #### Simulating Morgan's Work
@@ -89,9 +107,8 @@ I already had Git, MobaXterm, and Visual Studio Code installed on my local machi
 
 Before raising a pull request for Jamie's update-events branch, I ensured to pull the latest changes into `update-events`.
 
+see screen shot pictures above.
 
 
-
-![](./images/Screenshot_3.png)
 
 
