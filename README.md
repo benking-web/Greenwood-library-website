@@ -182,12 +182,12 @@ Before raising a pull request for Jamie's update-events branch, I ensured to pul
 
 see screen shot pictures above. 
 
-**###conclusively###**
+____conclusively____
 
 This work has demonstrated the collaboration betwween Morgan and Jamie as they apply version control system (vcs tools called git) in which each member team work simultaneously on their section without overwritting each others work.Git tracked their changes allowing them to merge updates seamlessly into the main project.this is collaboration, integration, efficiency and effectiveness as examplified in git powers.
 
 
-__Skills learnt during thie cause of this documentation__
+____Skills learnt during thie cause of this documentation____
 
 During the cause of ths work, i was able to perfect my skills on the use of git bash terminal, Mobxterm terminal and vscode terminal. i was able to perfect use of command line interface, markdown, and editting my documentatation using both vscode and github. also use of snipping tools and uploading of pictures perfected.
 
