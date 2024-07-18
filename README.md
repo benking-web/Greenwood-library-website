@@ -9,8 +9,8 @@ position : Trainee Jnr DevOps Engr
 
 see my picture below
 
+![my_picture](![benking_pic](https://github.com/user-attachments/assets/ffb7a88d-91fc-4d73-836c-abb693e7859a))
 
-![](Benking's_picture.jpg)]
 
 
 
