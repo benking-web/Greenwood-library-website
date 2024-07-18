@@ -9,7 +9,8 @@ position : Trainee Jnr DevOps Engr
 
 see my picture below
 
-![my_picture](![benking_pic](https://github.com/user-attachments/assets/27652c92-24a7-4f79-b629-d4a42ce13691)
+![my_picture](![Benking_pic2 (2)](https://github.com/user-attachments/assets/2cc36b89-7b43-4f6d-9510-e4f172c620be))
+
 
 
 
