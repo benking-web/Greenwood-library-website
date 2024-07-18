@@ -182,7 +182,7 @@ Before raising a pull request for Jamie's update-events branch, I ensured to pul
 
 see screen shot pictures above. 
 
-____conclusively____
+____Conclusively____
 
 This work has demonstrated the collaboration betwween Morgan and Jamie as they apply version control system (vcs tools called git) in which each member team work simultaneously on their section without overwritting each others work.Git tracked their changes allowing them to merge updates seamlessly into the main project.this is collaboration, integration, efficiency and effectiveness as examplified in git powers.
 
