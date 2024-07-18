@@ -46,38 +46,56 @@ see attached screenshot of the cloned repository as well as the the commands on 
 
 ![my_Repo](images/git_clone_file.png)
 
-[(./images/mobxterm_terminal_1.png)]
-[(./images/mobxterm_terminal_2.png)]
-[(./images/Mobxterm_terminal_3.png)]
-[(./images/Mobxterm_terminal_4.png)]
+
+[terminal_1](images/mobxterm_terminal_1.png)
+
+
+[terminal_2](images/mobxterm_terminal_2.png)
+
+
+[terminal_3](images/Mobxterm_terminal_3.png)
+
+
+[terminal_4](images/Mobxterm_terminal_4.png)
+
+
 5. On the main branch, created four HTML files inside Visual Studio Code:
    - `About_us.html`
    - `Contact_us.html`
    - `Home.html`
 
-   [(./images/vscode_html_files.png)]
+   [html_files](images/vscode_html_files.png)
+   
 
-6. Added random contents to each of the files.
+7. Added random contents to each of the files.
 see the screenshot attached below:
-[(./images/contact_us.html_file.png)]
-[(./images/event.html_file.png)]
-[(./images/home.html_file.png)]
-[(./images/about_us.html_file.png)]
 
 
-7. Staged the changes using:
+[Contact_us](images/contact_us.html_file.png)
+
+
+[Event](images/event.html_file.png)
+
+
+[Home](images/home.html_file.png)
+
+
+[About](images/about_us.html_file.png)
+
+
+9. Staged the changes using:
    ```
    git add .
    ```
-8. Checked the status of the repository:
+10. Checked the status of the repository:
    ```
    git status
    ```
-9. Committed these changes to the project history:
+11. Committed these changes to the project history:
    ```
    git commit -m "This is my first commit"
    ```
-10. Pushed the main branch to GitHub:
+11. Pushed the main branch to GitHub:
     ```
     git push origin main
     ```
@@ -116,7 +134,12 @@ see pictures above on mobxterm terminal pictures
 
 Before raising a pull request for Jamie's update-events branch, I ensured to pull the latest changes into `update-events`.
 
-see screen shot pictures above. thanks
+see screen shot pictures above. 
+
+
+**Skills learnt during thie cause of this documentation**
+
+During the cause of ths work, i was able to perfect my skills on the use of git bash terminal, Mobxterm terminal and vscode terminal. i was able to perfect use of command line interface, markdown, and editting my documentatation using both vscode and github. also use of snipping tools and uploading of pictures perfected.
 
 
 
