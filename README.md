@@ -187,7 +187,7 @@ see screen shot pictures above.
 This work has demonstrated the collaboration betwween Morgan and Jamie as they apply version control system (vcs tools called git) in which each member team work simultaneously on their section without overwritting each others work.Git tracked their changes allowing them to merge updates seamlessly into the main project.this is collaboration, integration, efficiency and effectiveness as examplified in git powers.
 
 
-**###Skills learnt during thie cause of this documentation###**
+__Skills learnt during thie cause of this documentation__
 
 During the cause of ths work, i was able to perfect my skills on the use of git bash terminal, Mobxterm terminal and vscode terminal. i was able to perfect use of command line interface, markdown, and editting my documentatation using both vscode and github. also use of snipping tools and uploading of pictures perfected.
 
