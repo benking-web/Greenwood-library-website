@@ -44,7 +44,7 @@ I already had Git, MobaXterm, and Visual Studio Code installed on my local machi
 4. Changed directory into the cloned folder (`greenwood-library-website`).
 see attached screenshot of the cloned repository as well as the the commands on mobxterm terminal, which also shows the file path, git add, git commit and git push and collaboration between Morgan and Jamies.
 
-[(./images/git_clone_file.png)]
+![](./images/git_clone_file.png)
 
 [(./images/mobxterm_terminal_1.png)]
 [(./images/mobxterm_terminal_2.png)]
