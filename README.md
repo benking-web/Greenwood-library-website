@@ -42,16 +42,36 @@ I already had Git, MobaXterm, and Visual Studio Code installed on my local machi
 4. Changed directory into the cloned folder (`greenwood-library-website`).
 see attached screenshot of the cloned repository as well as the the commands on mobxterm terminal, which also shows the file path, git add, git commit and git push and collaboration between Morgan and Jamies.
 
+
+
 ![my_Repo](images/git_clone_file.png)
+
+
+
 
 
 [terminal_1](images/mobxterm_terminal_1.png)
 
 
+
+
+
+
+
 [terminal_2](images/mobxterm_terminal_2.png)
 
 
+
+
+
+
 [terminal_3](images/Mobxterm_terminal_3.png)
+
+
+
+
+
+
 
 
 [terminal_4](images/Mobxterm_terminal_4.png)
@@ -62,23 +82,51 @@ see attached screenshot of the cloned repository as well as the the commands on 
    - `Contact_us.html`
    - `Home.html`
 
+
+
+
    [html_files](images/vscode_html_files.png)
    
+
+
+
+
 
 7. Added random contents to each of the files.
 see the screenshot attached below:
 
 
+
+
+
 [Contact_us](images/contact_us.html_file.png)
+
+
+
+
 
 
 [Event](images/event.html_file.png)
 
 
+
+
+
+
 [Home](images/home.html_file.png)
 
 
+
+
+
+
+
+
 [About](images/about_us.html_file.png)
+
+
+
+
 
 
 9. Staged the changes using:
@@ -133,6 +181,10 @@ see pictures above on mobxterm terminal pictures
 Before raising a pull request for Jamie's update-events branch, I ensured to pull the latest changes into `update-events`.
 
 see screen shot pictures above. 
+
+**conclusively**
+
+This work has demonstrated the collaboration betwween Morgan and Jamie as they apply version control system (vcs tools called git) in which each member team work simultaneously on their section without overwritting each others work.Git tracked their changes allowing them to merge updates seamlessly into the main project.this is collaboration, integration, efficiency and effectiveness as examplified in git powers.
 
 
 **Skills learnt during thie cause of this documentation**
